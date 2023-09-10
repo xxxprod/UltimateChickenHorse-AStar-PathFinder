@@ -1,0 +1,17 @@
+.vs
+*.user
+bin
+obj
+/UltimateChickenHorse
+/DataAnalysis/ActionMaps
+/Downloads
+/UCH-PersistentData/snapshots/thumbnails
+/UCH-PersistentData/*.loc
+venv
+__pycache__
+*.bak
+
+.DS_Store
+~$*.docx
+~$*.xlsx
+~$*.pptx

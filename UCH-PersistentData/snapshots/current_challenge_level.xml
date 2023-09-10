@@ -1,0 +1,23 @@
+<scene levelSceneName="BlankLevel" saveFormatVersion="1" customLevelBackground="1" customLevelMusic="10" customLevelAmbience="10">
+  <block sceneID="0" blockID="45" pX="-9" pY="-10" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000130" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="1" blockID="45" pX="7" pY="-10" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000150" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="2" blockID="40" pX="-12" pY="-9" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000190" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="3" blockID="40" pX="-8" pY="-9" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000210" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="4" blockID="40" pX="-4" pY="-9" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000250" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="5" blockID="40" pX="0" pY="-9" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000270" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="6" blockID="40" pX="4" pY="-9" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000290" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="7" blockID="40" pX="8" pY="-9" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000310" colR="0.1764706" colG="0.1764706" colB="0.1764706" />
+  <block sceneID="8" blockID="10" pX="-13" pY="-6" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000350" />
+  <block sceneID="9" blockID="10" pX="-9" pY="-6" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000370" />
+  <block sceneID="10" blockID="10" pX="-5" pY="-6" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000390" />
+  <block sceneID="11" blockID="10" pX="-1" pY="-6" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000410" />
+  <block sceneID="12" blockID="10" pX="3" pY="-6" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000430" />
+  <block sceneID="13" blockID="10" pX="7" pY="-6" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="1000450" />
+  <moved placeableID="7" path="DeathPit" pX="-0.9" pY="-31" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" />
+  <moved placeableID="9" path="LeftWall" pX="-41" pY="2" pZ="0" rX="0" rY="0" rZ="270" sX="1" sY="1" sZ="1" />
+  <moved placeableID="8" path="Ceiling" pX="6.5" pY="15" pZ="0" rX="0" rY="0" rZ="180" sX="1" sY="1" sZ="1" />
+  <moved placeableID="6" path="RightWall" pX="40" pY="-25.9" pZ="0" rX="0" rY="0" rZ="90" sX="1" sY="1" sZ="1" />
+  <block sceneID="18" blockID="39" pX="16" pY="-10" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" placeableID="2" />
+  <moved placeableID="11" path="StartPlank" pX="-18.5" pY="-10" pZ="0" rX="0" rY="0" rZ="0" sX="1" sY="1" sZ="1" />
+  <player pX="-17.63" pY="-9.066054" />
+</scene>

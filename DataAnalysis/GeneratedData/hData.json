@@ -1,0 +1,1653 @@
+[
+    {
+        "name": "Ground|Stop->Stop",
+        "variable_length": true,
+        "data": [
+            {
+                "Actions": [],
+                "VelocityX": -0.0,
+                "Action": 0.0
+            }
+        ]
+    },
+    {
+        "name": "Ground|Stop->Right,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 0.0
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 0.767999947
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 1.53599989
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 2.304
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 3.07199979
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 3.83999968
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 4.608
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 5.376
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 6.144
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 6.912
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 7.68000031
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 8.448
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 9.216
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 9.983999
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 10.7519989
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 11.5199986
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.2879982
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8
+            }
+        ]
+    },
+    {
+        "name": "Ground|Right,Sprint->Right,Sprint",
+        "variable_length": true,
+        "data": [
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8
+            }
+        ]
+    },
+    {
+        "name": "Ground|Right,Sprint->Stop",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [],
+                "VelocityX": 12.8
+            },
+            {
+                "Actions": [],
+                "VelocityX": 8.0
+            },
+            {
+                "Actions": [],
+                "VelocityX": 5.5
+            },
+            {
+                "Actions": [],
+                "VelocityX": 3.00000024
+            },
+            {
+                "Actions": [],
+                "VelocityX": 0.0
+            }
+        ]
+    },
+    {
+        "name": "Ground|Right,Sprint->Left,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 9.532001
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 6.26400042
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 2.99600077
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -0.271998942
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -1.03999889
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -1.8079989
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -2.57599878
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -3.34399867
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -4.11199856
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -4.87999868
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -5.647999
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -6.415999
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -7.183999
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -7.951999
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -8.719999
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -9.487999
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -10.2559986
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -11.0239983
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -11.7919979
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.5599976
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8
+            }
+        ]
+    },
+    {
+        "name": "Air|Right,Stop->Right,Stop",
+        "variable_length": true,
+        "data": [
+            {
+                "Actions": [],
+                "VelocityX": 0.0700783357,
+                "Action": 0.0
+            }
+        ]
+    },
+    {
+        "name": "Air|Right,Stop->Right,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 0.0700783357
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 0.6443765
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 1.223975
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 1.81197572
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 2.411128
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 3.023828
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 3.652119
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 4.29769135
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 4.96188259
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 5.645677
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 6.349706
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 7.07424831
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 7.819229
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 8.584222
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 9.368445
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 10.1707668
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 10.9897
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 11.8234062
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.4821062
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.6301231
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.7353992
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.7927246
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8019533
+            }
+        ]
+    },
+    {
+        "name": "Air|Right,Sprint->Right,Sprint",
+        "variable_length": true,
+        "data": [
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8019533
+            }
+        ]
+    },
+    {
+        "name": "Air|Right,Sprint->Right,Stop",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Left"
+                ],
+                "VelocityX": 12.8019533
+            },
+            {
+                "Actions": [
+                    "Left"
+                ],
+                "VelocityX": 5.294047
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 4.931798
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 4.343797
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 3.74464488
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 3.131945
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 2.503654
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 1.8580817
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 1.19389069
+            },
+            {
+                "Actions": [
+                    "Left"
+                ],
+                "VelocityX": 0.510096431
+            },
+            {
+                "Actions": [],
+                "VelocityX": 0.0700783357
+            }
+        ]
+    },
+    {
+        "name": "Air|Right,Sprint->Left,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Left"
+                ],
+                "VelocityX": 12.8019533
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 5.294047
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 4.71444845
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 4.12644768
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 3.52729535
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 2.91459537
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 2.28630447
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 1.64073217
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 0.9765411
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": 0.2927468
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -0.411282152
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -1.13582432
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -1.88080537
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -2.645798
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -3.43002176
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -4.232343
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -5.05127668
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -5.88498259
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -6.73126936
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -7.58759165
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -8.451052
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -9.318398
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -10.1863708
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -11.0543432
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -11.9223156
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.790288
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8019533
+            }
+        ]
+    },
+    {
+        "name": "WallJump|Right,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 0.0
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8019533
+            }
+        ]
+    },
+    {
+        "name": "Ground|Stop->Left,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -0.0
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -0.767999947
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -1.53599989
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -2.304
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -3.07199979
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -3.83999968
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -4.608
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -5.376
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -6.144
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -6.912
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -7.68000031
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -8.448
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -9.216
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -9.983999
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -10.7519989
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -11.5199986
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.2879982
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8
+            }
+        ]
+    },
+    {
+        "name": "Ground|Left,Sprint->Left,Sprint",
+        "variable_length": true,
+        "data": [
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8
+            }
+        ]
+    },
+    {
+        "name": "Ground|Left,Sprint->Stop",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [],
+                "VelocityX": -12.8
+            },
+            {
+                "Actions": [],
+                "VelocityX": -8.0
+            },
+            {
+                "Actions": [],
+                "VelocityX": -5.5
+            },
+            {
+                "Actions": [],
+                "VelocityX": -3.00000024
+            },
+            {
+                "Actions": [],
+                "VelocityX": -0.0
+            }
+        ]
+    },
+    {
+        "name": "Ground|Left,Sprint->Right,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -9.532001
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -6.26400042
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -2.99600077
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 0.271998942
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 1.03999889
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 1.8079989
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 2.57599878
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 3.34399867
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 4.11199856
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 4.87999868
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 5.647999
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 6.415999
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 7.183999
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 7.951999
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 8.719999
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 9.487999
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 10.2559986
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 11.0239983
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 11.7919979
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.5599976
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8
+            }
+        ]
+    },
+    {
+        "name": "Air|Left,Stop->Left,Stop",
+        "variable_length": true,
+        "data": [
+            {
+                "Actions": [],
+                "VelocityX": -0.0700783357,
+                "Action": 0.0
+            }
+        ]
+    },
+    {
+        "name": "Air|Left,Stop->Left,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -0.0700783357
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -0.6443765
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -1.223975
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -1.81197572
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -2.411128
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -3.023828
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -3.652119
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -4.29769135
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -4.96188259
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -5.645677
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -6.349706
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -7.07424831
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -7.819229
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -8.584222
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -9.368445
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -10.1707668
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -10.9897
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -11.8234062
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.4821062
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.6301231
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.7353992
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.7927246
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8019533
+            }
+        ]
+    },
+    {
+        "name": "Air|Left,Sprint->Left,Sprint",
+        "variable_length": true,
+        "data": [
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8019533
+            }
+        ]
+    },
+    {
+        "name": "Air|Left,Sprint->Left,Stop",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Right"
+                ],
+                "VelocityX": -12.8019533
+            },
+            {
+                "Actions": [
+                    "Right"
+                ],
+                "VelocityX": -5.294047
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -4.931798
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -4.343797
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -3.74464488
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -3.131945
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -2.503654
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -1.8580817
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -1.19389069
+            },
+            {
+                "Actions": [
+                    "Right"
+                ],
+                "VelocityX": -0.510096431
+            },
+            {
+                "Actions": [],
+                "VelocityX": -0.0700783357
+            }
+        ]
+    },
+    {
+        "name": "Air|Left,Sprint->Right,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Right"
+                ],
+                "VelocityX": -12.8019533
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -5.294047
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -4.71444845
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -4.12644768
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -3.52729535
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -2.91459537
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -2.28630447
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -1.64073217
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -0.9765411
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": -0.2927468
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 0.411282152
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 1.13582432
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 1.88080537
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 2.645798
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 3.43002176
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 4.232343
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 5.05127668
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 5.88498259
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 6.73126936
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 7.58759165
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 8.451052
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 9.318398
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 10.1863708
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 11.0543432
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 11.9223156
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.790288
+            },
+            {
+                "Actions": [
+                    "Right",
+                    "Sprint"
+                ],
+                "VelocityX": 12.8019533
+            }
+        ]
+    },
+    {
+        "name": "WallJump|Left,Sprint",
+        "variable_length": false,
+        "data": [
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -0.0
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8
+            },
+            {
+                "Actions": [
+                    "Left",
+                    "Sprint"
+                ],
+                "VelocityX": -12.8019533
+            }
+        ]
+    }
+]
