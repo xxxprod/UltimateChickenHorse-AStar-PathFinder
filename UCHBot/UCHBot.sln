@@ -9,13 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UCHBot.GlobalMods", "UCHBot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UCHBot.Model", "UCHBot.Model\UCHBot.Model.csproj", "{05B71E01-CDAB-4913-92A2-C2ADA83CAE12}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Archive", "Archive", "{48B5A546-57A0-4EAF-B505-B9873694E1F0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UCHBot.GameStarter", "UCHBot.GameStarter\UCHBot.GameStarter.csproj", "{AE3819C8-76C9-41BC-9254-1DBA06B8A123}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UCHBot.RecorderMod", "Archive\UCHBot.RecorderMod\UCHBot.RecorderMod.csproj", "{E782F954-1042-45DF-A70E-8D4634EDEEA2}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UCHBot.ReplayMod", "Archive\UCHBot.ReplayMod\UCHBot.ReplayMod.csproj", "{889B4DC8-9FEA-4550-B1C8-810D82407B4A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCHBot.Tests", "UCHBot.Tests\UCHBot.Tests.csproj", "{FDD9129B-DEF8-4C08-B772-F7B74A2E78C8}"
 EndProject
